@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ant-design-pro": "1.4.4",
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "name": "629knkzv7w",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ant-design-pro": "1.4.4",
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
